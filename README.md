@@ -1,2 +1,4 @@
 # IMG-createion-flow
-Workflow_automata-generate-img-base-des-on-gg-sheet
+This is a workflow automate generate img base on description on google sheet
+Platform use: Make.com
+AI using: Stable diffusion on Hugging face
